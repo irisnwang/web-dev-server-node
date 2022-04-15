@@ -1,6 +1,5 @@
 export default [
   {
-    "_id": "123",
     "topic": "Web Development",
     "postedBy": {
       "username": "ReactJS"
@@ -49,7 +48,6 @@ export default [
     }
   },
   {
-    "_id": "234",
     "topic": "Space",
     "postedBy": {
       "username": "Scott Manley"
